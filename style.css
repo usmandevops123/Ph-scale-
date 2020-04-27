@@ -1,0 +1,113 @@
+body{
+    background-color: gray;
+}
+
+.heading{
+    background-color: white;
+    margin: 20px;
+    padding: 4px;
+    font-family: sans-serif;
+    color:rgba(29, 13, 13, 0.801);
+}
+
+h1{
+    margin-left: 10px;
+}
+
+.maindiv{
+    margin: 20px;
+}
+
+.div1{
+    background-color: rgb(31, 43, 219);
+    color: white;
+    padding: 8px;
+}
+.div2{
+    background-color: rgba(37, 37, 245, 0.726);
+    color: white;
+    padding: 8px;
+}
+
+.div3{
+    background-color: rgb(66, 111, 206);
+    color: white;
+    padding: 8px;
+}
+
+.div4{
+    background-color: rgb(44, 136, 197);
+    color: white;
+    padding: 8px;
+}
+
+.div5{
+    background-color: rgb(139, 209, 236);
+    color: white;
+    padding: 8px;
+}
+
+.div6{
+    background-color: rgb(153, 226, 226);
+    color: white;
+    padding: 8px;
+}
+
+.div7{
+    background-color: rgb(202, 255, 255);
+    color: white;
+    padding: 8px;
+}
+
+.div8{
+    background-color: green;
+    color: white;
+    padding: 8px;
+}
+
+.div9{
+    background-color: pink;
+    color: white;
+    padding: 8px;
+}
+
+.div10{
+    background-color: rgb(255, 126, 148);
+    color: white;
+    padding: 8px;
+}
+
+.div11{
+    background-color:rgb(243, 81, 108);
+    color: white;
+    padding: 8px;
+}
+
+.div12{
+    background-color: rgb(248, 68, 98);
+    color: white;
+    padding: 8px;
+}
+
+.div13{
+    background-color: rgb(250, 48, 81);
+    color: white;
+    padding: 8px;
+}
+
+.div14{
+    background-color: rgb(241, 46, 79);
+    color: white;
+    padding: 8px;
+}
+
+.div15{
+    background-color: rgb(247, 12, 51);
+    color: white;
+    padding: 8px;
+}
+
+
+
+
+
